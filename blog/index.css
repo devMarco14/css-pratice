@@ -1,0 +1,31 @@
+.container{
+    width: 800px;
+    display : block;
+    margin-left : auto;
+    margin-right : auto;
+}
+
+.left-manu{
+    width: 80%;
+    height: 200px;
+    /* background: aqua; */
+    float: left;
+}
+.right-box{
+    width: 20%;
+    height: 200px;
+    /* background: gray; */
+    float: left;
+}
+.lotso-p{
+    width: 40px;
+    float: left;
+}
+
+.name{
+    float: left;
+}
+
+.contents{
+    clear: both;
+}

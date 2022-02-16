@@ -1,0 +1,47 @@
+.container{
+    width: 800px;
+}
+
+.left-box{
+    width: 80%;
+    height: 40px;
+    float: left;
+}
+
+.right{
+    width: 20%;
+    height: 40px;
+    float: right;
+    
+}
+
+.lotso1{
+    display:block;
+	width:100%;
+	height:auto;
+}
+
+.lotso2{
+    display:block;
+	width:5%;
+	height:auto;
+    float: left;
+    border-radius: 70%;
+}
+
+.profile{
+    width: 100%;
+}
+
+.name{
+    float: right;
+    width: 95%;
+}
+
+.one{
+    clear: both;
+}
+
+.two{
+    clear: both;
+}
