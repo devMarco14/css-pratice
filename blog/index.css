@@ -29,3 +29,25 @@
 .contents{
     clear: both;
 }
+
+.navbar{
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.navbar li{
+    display: inline-block;
+    width:  60px;
+    text-align: center;
+    background: #eee;
+    padding: 10px;
+
+}
+.navbar a{
+    font-size: 20px;
+    text-decoration: none;
+    color: inherit;
+    border-radius: 5px;
+}

@@ -1,0 +1,32 @@
+body {
+    margin: 0px;
+}
+
+.main-background {
+    width: 100%;
+    height: 500px;
+    background-image: url(shoes.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 1px;
+}
+
+.main-title{
+    color:beige;
+    font-size:  40px;
+    margin-top: 200px;
+    text-align: center;
+}
+
+.main-text{
+    color: beige;
+    font-size: 20px;
+    text-align: center;
+}
+
+.buy-button{
+    width: 100px;
+    margin: auto;
+    display: block;
+}
